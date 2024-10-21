@@ -1,0 +1,92 @@
+main{
+    font-family: "Inter", serif;
+    background-color: #1A1B21;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: fit-content;
+    padding:25px;
+    margin-top: 15px;
+    border-radius: 10px;
+}
+
+main img{
+    border-radius: 10px;
+    width: 315px;
+}
+
+.name{
+    font-weight: 600;
+    color: #FFFFFF;
+    font-size: 25px;
+    margin: 10px 0 0 0;
+}
+
+.title{
+    margin: 0;
+    margin-top: 10px;
+    font-weight: 300;
+    color: #F3BF99;
+    font-size: 13px;
+}
+
+.website{
+    color: #FFFFFF;
+    font-size: 11px;
+    margin: 10px 0;
+}
+
+.btns{
+    display: flex;
+    gap: 20px;
+    
+}
+
+button{
+    font-size: 14px;
+    font-weight: 600;
+    height: 40px;
+    width: 150px;
+    background-color: #FFFFFF;
+    border: none;
+    border-radius: 6px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10px;
+}
+
+button svg{
+    margin-right: 10px;
+    height: 18px;
+    width: 18px;
+}
+
+.linkedin{
+    color: #FFFFFF;
+    background-color: #5093E2;
+}
+
+.about{
+    color: #FFFFFF;
+    align-self: flex-start;
+    width: 315px;
+    margin: 0 auto;
+    font-weight: 200;
+}
+
+.about h3{
+    margin: 0;
+    margin-top: 35px;
+}
+
+.about p{
+    line-height: 150%;
+    font-size: 13px;
+    margin: 0;
+    margin-top: 10px;
+}
+
+.info{
+    margin-bottom: 50px;
+}
