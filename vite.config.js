@@ -3,6 +3,6 @@ import react from '@vitejs/plugin-react'
 
 // https://vitejs.dev/config/
 export default defineConfig({
-  base:"/digital-busniess-card-react/",
+  base: "/digital-business-card-react/",
   plugins: [react()],
-})
+});
