@@ -68,13 +68,12 @@ export default function Main() {
             <h3>Interests</h3>
             <p>
               {" "}
-              Making Websites, Invest, Reading Non-Fiction ("Self-Help"),
-              Investing.
+              Making Websites, Invest, Reading Non-Fiction ("Self-Help , Business ,Investing").
             </p>
           </div>
         </div>
-            
-            <Footer />
+
+        <Footer />
       </main>
     );
 }
